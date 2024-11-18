@@ -1,0 +1,50 @@
+# AP and precision/recall per class
+33.33% = bicycle AP 
+ Precision: ['1.00', '0.50']
+ Recall :['0.33', '0.33']
+
+95.00% = car AP 
+ Precision: ['1.00', '1.00', '1.00', '0.75', '0.80', '0.67']
+ Recall :['0.25', '0.50', '0.75', '0.75', '1.00', '1.00']
+
+66.67% = cat AP 
+ Precision: ['1.00', '1.00', '0.67']
+ Recall :['0.33', '0.67', '0.67']
+
+66.67% = cow AP 
+ Precision: ['1.00', '1.00', '0.67']
+ Recall :['0.33', '0.67', '0.67']
+
+100.00% = diningtable AP 
+ Precision: ['1.00', '0.50']
+ Recall :['1.00', '1.00']
+
+100.00% = dog AP 
+ Precision: ['1.00']
+ Recall :['1.00']
+
+35.46% = person AP 
+ Precision: ['1.00', '1.00', '1.00', '1.00', '0.80', '0.83', '0.71', '0.62', '0.67', '0.60', '0.64', '0.58', '0.62', '0.57', '0.60', '0.56', '0.53', '0.56', '0.58']
+ Recall :['0.04', '0.08', '0.12', '0.17', '0.17', '0.21', '0.21', '0.21', '0.25', '0.25', '0.29', '0.29', '0.33', '0.33', '0.38', '0.38', '0.38', '0.42', '0.46']
+
+
+# mAP of all classes
+mAP = 71.02%
+
+# Number of ground-truth objects per class
+bicycle: 3
+car: 4
+cat: 3
+cow: 3
+diningtable: 1
+dog: 1
+person: 24
+
+# Number of detected objects per class
+bicycle: 2 (tp:1, fp:1)
+car: 6 (tp:4, fp:2)
+cat: 3 (tp:2, fp:1)
+cow: 3 (tp:2, fp:1)
+diningtable: 2 (tp:1, fp:1)
+dog: 1 (tp:1, fp:0)
+person: 19 (tp:11, fp:8)

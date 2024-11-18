@@ -1,0 +1,5 @@
+ckpts/
+data/
+exp/**/*.txt
+!exp/**/output.txt
+checkpoint.pth
