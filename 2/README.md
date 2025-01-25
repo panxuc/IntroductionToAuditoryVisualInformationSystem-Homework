@@ -352,21 +352,22 @@ def inference(self, images, proposals, proposal_batch_ids, thresh=0.5, nms_thres
 
 <table>
   <tr>
-    <td><img src="exp/fast_rcnn_overfit_small/visualize/000012.jpg"></td>
-    <td><img src="exp/fast_rcnn_overfit_small/visualize/001182.jpg"></td>
-    <td><img src="exp/fast_rcnn_overfit_small/visualize/002241.jpg"></td>
-  <tr>
-    <td><img src="exp/fast_rcnn_overfit_small/visualize/003354.jpg"></td>
-    <td><img src="exp/fast_rcnn_overfit_small/visualize/004376.jpg"></td>
-    <td><img src="exp/fast_rcnn_overfit_small/visualize/005455.jpg"></td>
+    <td><img src="./exp/fast_rcnn_overfit_small/visualize/000012.jpg"></td>
+    <td><img src="./exp/fast_rcnn_overfit_small/visualize/001182.jpg"></td>
+    <td><img src="./exp/fast_rcnn_overfit_small/visualize/002241.jpg"></td>
   </tr>
   <tr>
-    <td><img src="exp/fast_rcnn_overfit_small/visualize/006551.jpg"></td>
-    <td><img src="exp/fast_rcnn_overfit_small/visualize/007753.jpg"></td>
-    <td><img src="exp/fast_rcnn_overfit_small/visualize/008932.jpg"></td>
+    <td><img src="./exp/fast_rcnn_overfit_small/visualize/003354.jpg"></td>
+    <td><img src="./exp/fast_rcnn_overfit_small/visualize/004376.jpg"></td>
+    <td><img src="./exp/fast_rcnn_overfit_small/visualize/005455.jpg"></td>
   </tr>
   <tr>
-    <td><img src="exp/fast_rcnn_overfit_small/visualize/009961.jpg"></td>
+    <td><img src="./exp/fast_rcnn_overfit_small/visualize/006551.jpg"></td>
+    <td><img src="./exp/fast_rcnn_overfit_small/visualize/007753.jpg"></td>
+    <td><img src="./exp/fast_rcnn_overfit_small/visualize/008932.jpg"></td>
+  </tr>
+  <tr>
+    <td><img src="./exp/fast_rcnn_overfit_small/visualize/009961.jpg"></td>
   </tr>
 </table>
 
@@ -382,45 +383,45 @@ def inference(self, images, proposals, proposal_batch_ids, thresh=0.5, nms_thres
 
 <table>
   <tr>
-    <td><img src="exp/fast_rcnn/mAP_output/mAP.png"></td>
-    <td><img src="exp/fast_rcnn/mAP_output/lamr.png"></td>
+    <td><img src="./exp/fast_rcnn/mAP_output/mAP.png"></td>
+    <td><img src="./exp/fast_rcnn/mAP_output/lamr.png"></td>
   </tr>
   <tr>
-    <td><img src="exp/fast_rcnn/mAP_output/detection-results-info.png"></td>
-    <td><img src="exp/fast_rcnn/mAP_output/ground-truth-info.png"></td>
+    <td><img src="./exp/fast_rcnn/mAP_output/detection-results-info.png"></td>
+    <td><img src="./exp/fast_rcnn/mAP_output/ground-truth-info.png"></td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <td><img src="exp/fast_rcnn/mAP_output/classes/aeroplane.png"></td>
-    <td><img src="exp/fast_rcnn/mAP_output/classes/bicycle.png"></td>
-    <td><img src="exp/fast_rcnn/mAP_output/classes/bird.png"></td>
-    <td><img src="exp/fast_rcnn/mAP_output/classes/boat.png"></td>
+    <td><img src="./exp/fast_rcnn/mAP_output/classes/aeroplane.png"></td>
+    <td><img src="./exp/fast_rcnn/mAP_output/classes/bicycle.png"></td>
+    <td><img src="./exp/fast_rcnn/mAP_output/classes/bird.png"></td>
+    <td><img src="./exp/fast_rcnn/mAP_output/classes/boat.png"></td>
   </tr>
   <tr>
-    <td><img src="exp/fast_rcnn/mAP_output/classes/bottle.png"></td>
-    <td><img src="exp/fast_rcnn/mAP_output/classes/bus.png"></td>
-    <td><img src="exp/fast_rcnn/mAP_output/classes/car.png"></td>
-    <td><img src="exp/fast_rcnn/mAP_output/classes/cat.png"></td>
+    <td><img src="./exp/fast_rcnn/mAP_output/classes/bottle.png"></td>
+    <td><img src="./exp/fast_rcnn/mAP_output/classes/bus.png"></td>
+    <td><img src="./exp/fast_rcnn/mAP_output/classes/car.png"></td>
+    <td><img src="./exp/fast_rcnn/mAP_output/classes/cat.png"></td>
   </tr>
   <tr>
-    <td><img src="exp/fast_rcnn/mAP_output/classes/chair.png"></td>
-    <td><img src="exp/fast_rcnn/mAP_output/classes/cow.png"></td>
-    <td><img src="exp/fast_rcnn/mAP_output/classes/diningtable.png"></td>
-    <td><img src="exp/fast_rcnn/mAP_output/classes/dog.png"></td>
+    <td><img src="./exp/fast_rcnn/mAP_output/classes/chair.png"></td>
+    <td><img src="./exp/fast_rcnn/mAP_output/classes/cow.png"></td>
+    <td><img src="./exp/fast_rcnn/mAP_output/classes/diningtable.png"></td>
+    <td><img src="./exp/fast_rcnn/mAP_output/classes/dog.png"></td>
   </tr>
   <tr>
-    <td><img src="exp/fast_rcnn/mAP_output/classes/horse.png"></td>
-    <td><img src="exp/fast_rcnn/mAP_output/classes/motorbike.png"></td>
-    <td><img src="exp/fast_rcnn/mAP_output/classes/person.png"></td>
-    <td><img src="exp/fast_rcnn/mAP_output/classes/pottedplant.png"></td>
+    <td><img src="./exp/fast_rcnn/mAP_output/classes/horse.png"></td>
+    <td><img src="./exp/fast_rcnn/mAP_output/classes/motorbike.png"></td>
+    <td><img src="./exp/fast_rcnn/mAP_output/classes/person.png"></td>
+    <td><img src="./exp/fast_rcnn/mAP_output/classes/pottedplant.png"></td>
   </tr>
   <tr>
-    <td><img src="exp/fast_rcnn/mAP_output/classes/sheep.png"></td>
-    <td><img src="exp/fast_rcnn/mAP_output/classes/sofa.png"></td>
-    <td><img src="exp/fast_rcnn/mAP_output/classes/train.png"></td>
-    <td><img src="exp/fast_rcnn/mAP_output/classes/tvmonitor.png"></td>
+    <td><img src="./exp/fast_rcnn/mAP_output/classes/sheep.png"></td>
+    <td><img src="./exp/fast_rcnn/mAP_output/classes/sofa.png"></td>
+    <td><img src="./exp/fast_rcnn/mAP_output/classes/train.png"></td>
+    <td><img src="./exp/fast_rcnn/mAP_output/classes/tvmonitor.png"></td>
   </tr>
 </table>
 

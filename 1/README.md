@@ -52,24 +52,24 @@
     <tr>
         <td rowspan="2">不使用</td>
         <td>1</td>
-        <td><img src="report/Loss_1.png"></td>
-        <td><img src="report/Loss_1.5.png"></td>
+        <td><img src="./report/Loss_1.png"></td>
+        <td><img src="./report/Loss_1.5.png"></td>
     </tr>
     <tr>
         <td>2</td>
-        <td><img src="report/Loss_4.png"></td>
-        <td><img src="report/Loss_4.5.png"></td>
+        <td><img src="./report/Loss_4.png"></td>
+        <td><img src="./report/Loss_4.5.png"></td>
     </tr>
     <tr>
         <td rowspan="2">使用</td>
         <td>1</td>
-        <td><img src="report/Loss_2.5.png"></td>
-        <td><img src="report/Loss_2.png"></td>
+        <td><img src="./report/Loss_2.5.png"></td>
+        <td><img src="./report/Loss_2.png"></td>
     </tr>
     <tr>
         <td>2</td>
-        <td><img src="report/Loss_5.5.png"></td>
-        <td><img src="report/Loss_5.png"></td>
+        <td><img src="./report/Loss_5.5.png"></td>
+        <td><img src="./report/Loss_5.png"></td>
     </tr>
 </table>
 
@@ -83,24 +83,24 @@
     <tr>
         <td rowspan="2">不使用</td>
         <td>1</td>
-        <td><img src="report/Acc_1.png"></td>
-        <td><img src="report/Acc_1.5.png"></td>
+        <td><img src="./report/Acc_1.png"></td>
+        <td><img src="./report/Acc_1.5.png"></td>
     </tr>
     <tr>
         <td>2</td>
-        <td><img src="report/Acc_4.png"></td>
-        <td><img src="report/Acc_4.5.png"></td>
+        <td><img src="./report/Acc_4.png"></td>
+        <td><img src="./report/Acc_4.5.png"></td>
     </tr>
     <tr>
         <td rowspan="2">使用</td>
         <td>1</td>
-        <td><img src="report/Acc_2.5.png"></td>
-        <td><img src="report/Acc_2.png"></td>
+        <td><img src="./report/Acc_2.5.png"></td>
+        <td><img src="./report/Acc_2.png"></td>
     </tr>
     <tr>
         <td>2</td>
-        <td><img src="report/Acc_5.5.png"></td>
-        <td><img src="report/Acc_5.png"></td>
+        <td><img src="./report/Acc_5.5.png"></td>
+        <td><img src="./report/Acc_5.png"></td>
     </tr>
 </table>
 
@@ -125,13 +125,13 @@
     </tr>
     <tr>
         <td>1</td>
-        <td><img src="report/Loss_1.5.png"></td>
-        <td><img src="report/Loss_2.png"></td>
+        <td><img src="./report/Loss_1.5.png"></td>
+        <td><img src="./report/Loss_2.png"></td>
     </tr>
     <tr>
         <td>2</td>
-        <td><img src="report/Loss_4.5.png"></td>
-        <td><img src="report/Loss_5.png"></td>
+        <td><img src="./report/Loss_4.5.png"></td>
+        <td><img src="./report/Loss_5.png"></td>
     </tr>
 </table>
 
@@ -143,13 +143,13 @@
     </tr>
     <tr>
         <td>1</td>
-        <td><img src="report/Acc_1.5.png"></td>
-        <td><img src="report/Acc_2.png"></td>
+        <td><img src="./report/Acc_1.5.png"></td>
+        <td><img src="./report/Acc_2.png"></td>
     </tr>
     <tr>
         <td>2</td>
-        <td><img src="report/Acc_4.5.png"></td>
-        <td><img src="report/Acc_5.png"></td>
+        <td><img src="./report/Acc_4.5.png"></td>
+        <td><img src="./report/Acc_5.png"></td>
     </tr>
 </table>
 
